@@ -1,0 +1,23 @@
+name: base
+channels:
+- conda-forge
+dependencies:
+  - nodejs
+  - ipympl
+  - python
+  - requests
+  - numba
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn  
+  - ipywidgets
+  - rise
+  - pip:
+      - autopep8
+      - black
+      - jupyterlab_code_formatter
+      - jupyterlab-solutions
+      - numecon
+      - yapf
