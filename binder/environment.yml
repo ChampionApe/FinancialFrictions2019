@@ -21,3 +21,4 @@ dependencies:
       - jupyterlab-solutions
       - numecon
       - yapf
+      - jupyter-cjk-xelatex
