@@ -6,5 +6,5 @@ Problem sets for summer school course in Financial Frictions, Liquidity and The 
 
 - For more information on Python and Jupyter notebooks, see https://numeconcopenhagen.netlify.com/.
 
-Binder: The program JupyterLab will run in the cloud, and the path will begin with hub.mybinder.org:...
+- Binder: The program JupyterLab will run in the cloud, and the path will begin with hub.mybinder.org:...
 Note: You cannot save your result when using binder (if you choose to add comments to the binder here, remember to download the file afterwards.)
