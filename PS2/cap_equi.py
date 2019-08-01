@@ -20,12 +20,12 @@ def plot_cap(R,N_R,n_0,_lambda,alpha,Inf,n_02,_lambda_2,alpha_2):
     
     fig = plt.figure(frameon=False, figsize=(8,8), dpi=120)
     ax = fig.add_subplot(1,1,1)
-    ax.plot(R_grid, cd_upper, color='blue')
-    ax.plot(R_grid, cd_upper2, linestyle='--', color='red')
-    #ax.plot(R_grid, cd_lower, color='red', alpha=0.5)
-    ax.plot(R_grid, cd_equi, color='blue')
-    ax.plot(R_grid, cd_equi2, linestyle='--', color='red')
-    #ax.fill_between(R_grid, cd_upper, cd_lower, alpha=0.5)
+    ax.plot(R, cd_upper, color='blue')
+    ax.plot(R, cd_upper2, linestyle='--', color='red')
+    #ax.plot(R, cd_lower, color='red', alpha=0.5)
+    ax.plot(R, cd_equi, color='blue')
+    ax.plot(R, cd_equi2, linestyle='--', color='red')
+    #ax.fill_between(R, cd_upper, cd_lower, alpha=0.5)
     ax.set_xlim([0, 2])
     ax.set_ylim([0, 10])
     # Labels:
