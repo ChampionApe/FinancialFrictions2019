@@ -6,7 +6,6 @@ dependencies:
   - nodejs
   - ipympl
   - python
-  - requests
   - numba
   - numpy
   - pandas
@@ -16,8 +15,4 @@ dependencies:
   - ipywidgets
   - rise
   - pip:
-      - autopep8
-      - black
-      - jupyterlab_code_formatter
-      - jupyterlab-solutions
       - jupyter-cjk-xelatex
