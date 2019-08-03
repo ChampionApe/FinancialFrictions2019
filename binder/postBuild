@@ -1,2 +1,12 @@
-jupyter lab build
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install \
+    @ijmbarr/jupyterlab_spellchecker \
+    @jupyterlab/latex \
+    @jupyterlab/statusbar \
+    @jupyterlab/toc \
+    @jupyter-widgets/jupyterlab-manager \
+    @ryantam626/jupyterlab_code_formatter \
+    jupyter-matplotlib \
+    https://github.com/elben10/jupyterlab-variableInspector
+    
+jupyter serverextension enable jupyterlab_code_formatter
+
