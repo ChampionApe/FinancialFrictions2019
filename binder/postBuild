@@ -10,3 +10,4 @@ jupyter labextension install \
     
 jupyter serverextension enable jupyterlab_code_formatter
 
+jupyter lab build
