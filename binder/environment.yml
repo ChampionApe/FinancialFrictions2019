@@ -2,8 +2,8 @@ name: base
 channels:
 - conda-forge
 dependencies:
-  - nodejs
   - pip
+  - nodejs
   - ipympl
   - python
   - requests
