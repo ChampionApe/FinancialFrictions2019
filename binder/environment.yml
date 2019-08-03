@@ -19,6 +19,4 @@ dependencies:
       - black
       - jupyterlab_code_formatter
       - jupyterlab-solutions
-      - numecon
-      - yapf
       - jupyter-cjk-xelatex
