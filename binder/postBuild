@@ -1,4 +1,4 @@
-jupyter labextension install @jupyter-widgets/jupyterlab-manager \
+jupyter labextension install @jupyter-widgets/jupyterlab-manager@1.0 \
     @ryantam626/jupyterlab_code_formatter \
     jupyter-matplotlib \
     https://github.com/elben10/jupyterlab-variableInspector
