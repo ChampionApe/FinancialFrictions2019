@@ -1,2 +1,0 @@
-jupyter labextension install @jupyterlab/toc jupyter-matplotlib 
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
