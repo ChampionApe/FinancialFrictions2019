@@ -1,4 +1,4 @@
-FROM financialfrictions2019/jupyter-docker
+FROM championape/jupyter-docker
 # The tag is the last commit tag in jupyterlab-docker
 
 # Make sure the contents of our repo are in ${HOME} 
