@@ -1,4 +1,4 @@
-FROM championape/jupyter-docker
+FROM championape/jupyterlab-docker
 # The tag is the last commit tag in jupyterlab-docker
 
 # Make sure the contents of our repo are in ${HOME} 
